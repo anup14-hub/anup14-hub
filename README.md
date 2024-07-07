@@ -1,5 +1,4 @@
-
-Config files for my GitHub profile.
+my GitHub profile.
 👋 Hi, I’m Anup Naiknavare 
 👀 I’m interested in Coding
 🌱 Masters of Computer Applications
